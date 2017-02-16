@@ -1,0 +1,2 @@
+# PhotAmateur
+GitHub Pages
